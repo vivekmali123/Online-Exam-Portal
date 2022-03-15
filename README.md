@@ -1,2 +1,2 @@
 # Online-Exam-Portal
-Its a sample examination portal created using JAVA. its totally beginners friendly.
+Its a sample examination portal created using JAVA. Its totally beginners friendly.
